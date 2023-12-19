@@ -11,9 +11,5 @@ Está diseñada siguiendo los principios de Clean Architecture y SOLID, y utiliz
 
 
 
-https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/e6d01d19-e3ce-439e-a6f6-e7d869724d83
-
-
-
-https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/8fc70909-784f-4737-809b-b065fc02a9eb
+https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/e6d01d19-e3ce-439e-a6f6-e7d869724d83 https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/8fc70909-784f-4737-809b-b065fc02a9eb
 
