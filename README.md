@@ -19,6 +19,22 @@ https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/76413f7f
 
 https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/f2f31932-e1d8-422e-ba37-1f898bcc5531
 
+https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/93b36a77-be42-4687-92d6-1fe206ce8d46
+
+https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/0a30e56f-fd74-4a8d-a0ba-3c3bc11824a3
+
 
 
 🛠 Tech Stack
+
+* Clean Architecture: El proyecto está estructurado siguiendo el patrón de Clean Architecture, lo que facilita la separación de responsabilidades y mejora la mantenibilidad del código.
+* SOLID: Los principios SOLID (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) se aplican en el diseño de la aplicación para promover un código limpio, modular y extensible.
+* Inyección de Dependencias - Dagger-Hilt: Se utiliza Dagger-Hilt para realizar la inyección de dependencias, lo que simplifica la gestión de las dependencias y permite una mejor escalabilidad y prueba unitaria del código.
+* Jetpack Compose: La interfaz de usuario se desarrolla utilizando Jetpack Compose, el moderno toolkit de UI de Android que facilita la creación de interfaces de usuario flexibles y dinámicas.
+* Firebase Authentication: Se integra Firebase Authentication para proporcionar un sistema de autenticación seguro y confiable para los usuarios de la aplicación.
+* Room: Se utiliza Room, la biblioteca de persistencia de Android, para almacenar los datos de los recordatorios por dia en una base de datos local y permitir un acceso rápido y eficiente a ellos.
+* Retrofit: Se utiliza Retrofit para realizar las llamadas a una API remota y obtener datos relacionados al vocabulario, lo que permite una sincronización eficiente y actualizada de la información.
+* Notificaciones: La aplicación permite configurar recordatorios personalizados por dia y muestra notificaciones en el dia y hora especificada para ayudar a los usuarios a seguir sus lecciones.
+* AlarmManager: El componente AlarmManager de Android se utiliza para programar las notificaciones y garantizar que se muestren en los momentos adecuados.
+* Broadcast Receivers: Se utilizan Broadcast Receivers para gestionar el agregado de alarmas cuando el usuario reinicia el dispositivo, y cuando suena una alarma, para configurar la siguiente.
+* Offline-First: La aplicación está diseñada siguiendo el enfoque "Offline-First", lo que significa que la funcionalidad principal está disponible incluso cuando el dispositivo está sin conexión a Internet
