@@ -23,6 +23,8 @@ https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/93b36a77
 
 https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/0a30e56f-fd74-4a8d-a0ba-3c3bc11824a3
 
+https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/0998c5cc-3f04-473f-8693-2a7cecd62adf
+
 
 
 🛠 Tech Stack
