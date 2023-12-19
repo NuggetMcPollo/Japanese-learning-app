@@ -10,10 +10,4 @@ Cuenta con un sistema de recordatorios personalizados. Asegurando una constante 
 Está diseñada siguiendo los principios de Clean Architecture y SOLID, y utiliza varias tecnologías y bibliotecas importantes para proporcionar una experiencia robusta y escalable.
 
 
-
-https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/84b482f1-5b90-4a81-a9a7-9e48b513e063
-https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/6e141e0d-f771-4fef-a6ca-a9513735f045
-
-
-
 🛠 Tech Stack
