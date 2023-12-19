@@ -25,6 +25,8 @@ https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/0a30e56f
 
 https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/0998c5cc-3f04-473f-8693-2a7cecd62adf
 
+https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/4c9dce83-44f7-490c-99d8-26c108a8efcb
+
 
 
 🛠 Tech Stack
@@ -40,3 +42,4 @@ https://github.com/NuggetMcPollo/Japanese-learning-app/assets/119012808/0998c5cc
 * AlarmManager: El componente AlarmManager de Android se utiliza para programar las notificaciones y garantizar que se muestren en los momentos adecuados.
 * Broadcast Receivers: Se utilizan Broadcast Receivers para gestionar el agregado de alarmas cuando el usuario reinicia el dispositivo, y cuando suena una alarma, para configurar la siguiente.
 * Offline-First: La aplicación está diseñada siguiendo el enfoque "Offline-First", lo que significa que la funcionalidad principal está disponible incluso cuando el dispositivo está sin conexión a Internet
+* Data Preferences: Implementa este sistema para brindar al usuario personalizacion de elementos como la continuidad de la reproducción musical, fondo de la aplicación, entre otras cosas. Asegurando que sus preferencias y progresos sean recordados y aplicados consistentemente.
